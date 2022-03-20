@@ -64,3 +64,4 @@ pubnative.net, 1006955, RESELLER, d641df8625486a7b
 pubnative.net, 1007040, RESELLER, d641df8625486a7b
 pubnative.net, 1006955, RESELLER, d641df8625486a7b
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
+google.com, pub-8437916693113141, DIRECT, f08c47fec0942fa0
